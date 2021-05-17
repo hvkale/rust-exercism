@@ -1,2 +1,2 @@
 # rust-exercism
-Rust Exercism
+🦀 Rust Exercism 🦀
